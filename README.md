@@ -37,9 +37,8 @@ After running the script once, the repository will look roughly like:
 
 ```text
 .
-├── spectral_adaptive_text_experiments.py   # main script (sim + real data)
+├── spectral_adaptive_text_experiments.ipynb   # main script (sim + real data)
 ├── README.md
-├── requirements.txt                        # optional (if you add one)
 ├── simulation_results_spectral_adaptive/
 │   ├── baseline_deep_svd_cnn_training_curves.png
 │   ├── baseline_deep_svd_cnn_confusion_matrix.png
